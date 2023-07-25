@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.zametka {
+    width: 1170px;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+.container {
+    margin: 30px auto;
+    display: flex;
+}
